@@ -126,29 +126,6 @@ matplotlib
 
 ---
 
-# Running the Project
-
-## Install dependencies
-
-```bash
-pip install pandas matplotlib numpy
-```
-
----
-
-## Run the script
-
-```bash
-python pca.py
-```
-
-or on Mac:
-
-```bash
-python3 pca.py
-```
-
----
 
 # Output Files
 
