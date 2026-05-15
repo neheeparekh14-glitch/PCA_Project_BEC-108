@@ -174,6 +174,9 @@ The PCA analysis shows that:
 * XBP1 and GATA3 expression patterns correlate with cancer subtype
 * PC1 captures the major source of variance in the dataset
 
+# Combined PCA Figure
+
+![Combined figure](plot_combined.png)
 ---
 
 # Project Structure
