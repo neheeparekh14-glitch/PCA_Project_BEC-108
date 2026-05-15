@@ -177,7 +177,3 @@ Bioinfo_Project/
 ```
 
 ---
-
-# Author
-
-Bioinformatics PCA Project using GSE5325 breast cancer gene expression dataset.
